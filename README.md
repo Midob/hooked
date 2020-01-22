@@ -3,9 +3,9 @@ Based on [tutorial](https://www.freecodecamp.org/news/how-to-build-a-movie-searc
 
 ## Tech Stack & Features
 
-React with Hooks
-create-react-app
-JSX
+React with Hooks<br />
+create-react-app<br />
+JSX<br />
 CSS
 
 ## Available Scripts
